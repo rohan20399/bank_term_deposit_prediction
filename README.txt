@@ -25,6 +25,7 @@ The notebook can be uploaded and run on AWS using an Amazon SageMaker instance. 
       - Decision Tree
       - Random Forest
       - Gradient Boosting
+(NOTE: The hyperparameter tuning part using RandomizedSearchCV may take considerable time(~ 20-30mins) for execution for some             models(Random forest, Gradient Boosting) with the AWS setup mentioned above)
 
 ## Project Workflow
 1. **EDA and Preprocessing**:
