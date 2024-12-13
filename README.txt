@@ -45,7 +45,7 @@ The project compares the performance of multiple models:
 - **Logistic Regression**: Accuracy = 0.8012, AUC = 0.8675
 - **Decision Tree**: Accuracy = 0.7895, AUC = 0.8239
 - **Random Forest**: Accuracy = 0.8540, AUC = 0.8658
-- **Gradient Boosting**: Accuracy = 0.8101, AUC = 0.8789
+- **Gradient Boosting**: Accuracy = 0.8063, AUC = 0.8717
 
 **Key Observations**:
 - Gradient Boosting achieved the best AUC score, indicating strong generalization and ranking ability.
@@ -55,6 +55,4 @@ The project compares the performance of multiple models:
 
 ## Dependencies
 Install the required Python libraries using:
-```bash
-pip install -r requirements.txt
-```
+`pip install -r requirements.txt`
