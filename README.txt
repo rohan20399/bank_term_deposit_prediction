@@ -16,7 +16,7 @@ The notebook can be uploaded and run on AWS using an Amazon SageMaker instance. 
 - **Software**: Jupyter Notebook instance with required Python libraries installed (e.g., `scikit-learn`, `pandas`, `matplotlib`).
 
 ### Instructions
-1. Upload `bank-full.csv` and `term_deposit_prediction.ipynb` to your environment.
+1. Upload `bank-full.csv`, `term_deposit_prediction.ipynb` and `requirements.txt` files to your environment.
 2. Open the notebook and follow the code execution sequence.
 3. During execution, you will be prompted twice:
    1. **Method for handling class imbalance**: Enter `SMOTE` or `undersampling` as per your preference.
